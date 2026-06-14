@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krebbi/homebridge-garage-control.git"
+    "url": "git+https://github.com/mikl10/homebridge-HTTP-garage-control.git"
   },
   "dependencies": {
     "axios": "^1.8"
@@ -33,17 +33,17 @@
     "remote"
   ],
   "author": {
-    "name": "krebbi",
-    "url": "https://github.com/krebbi"
+    "name": "mikl10",
+    "url": "https://github.com/mikl10"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krebbi/homebridge-garage-control/issues"
+    "url": "https://github.com/mikl10/homebridge-HTTP-garage-control/issues"
   },
-  "homepage": "https://github.com/krebbi/homebridge-garage-control#readme",
+  "homepage": "https://github.com/mikl10/homebridge-HTTP-garage-control#readme",
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/krebbi"
+    "url": "https://github.com/mikl10"
   },
   "homebridge": {
     "pluginType": "platform",
