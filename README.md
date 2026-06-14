@@ -1,4 +1,4 @@
-# homebridge-garage-control
+# HTTP-homebridge-garage-control
 
 ## Description
 
@@ -19,7 +19,7 @@ The request Package has been replaced with axios.
 ```json
 "platforms": [
      {
-       "platform": "homebridge-garage-control",
+       "platform": "HTTP-homebridge-garage-control",
        "name": "Garage",
        "openURL": "http://myurl.com/open",
        "closeURL": "http://myurl.com/close",
